@@ -4,15 +4,7 @@
 import { useState } from "react";
 import { motion } from "framer-motion";
 // import { useInView } from "react-intersection-observer";
-import {
-  personal,
-  stats,
-  skills,
-  projects,
-  internships,
-  education,
-  certifications,
-  achievements,
+import { personal, stats, skills,  projects,  internships,  education,  certifications,  achievements,
 } from "@/data/portfolio";
 import { SectionLabel, AnimatedSection, Badge, GlowOrb } from "@/components/ui";
 import { useTypewriter } from "@/hooks";
