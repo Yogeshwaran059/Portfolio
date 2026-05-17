@@ -3,7 +3,7 @@
 
 import { useState } from "react";
 import { motion } from "framer-motion";
-import { useInView } from "react-intersection-observer";
+// import { useInView } from "react-intersection-observer";
 import {
   personal,
   stats,
@@ -496,7 +496,8 @@ export function EducationSection({ isDark }: SectionProps) {
               <div className={`text-xs font-bold uppercase tracking-wider mb-2 ${isDark ? "text-gray-500" : "text-gray-400"}`}>
                 Certifications
               </div>
-              {certifications.map((cert, i) => (
+              //cert, i
+              {certifications.map((cert) => (
                 <motion.div
                   key={cert.title}
                   whileHover={{ x: 6 }}
