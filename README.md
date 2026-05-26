@@ -8,7 +8,7 @@ Designed with a premium UI/UX approach inspired by modern SaaS products and inte
 
 ## 🌐 Live Demo
 
-🔗 https://yogeshwaranofficial.github.io/Portfolio/
+🔗 https://yogeshwarans-portfolio.vercel.app/
 
 ---
 

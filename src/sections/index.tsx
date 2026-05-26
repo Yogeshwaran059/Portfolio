@@ -488,7 +488,7 @@ export function EducationSection({ isDark }: SectionProps) {
               <div className={`text-xs font-bold uppercase tracking-wider mb-2 ${isDark ? "text-gray-500" : "text-gray-400"}`}>
                 Certifications
               </div>
-              //cert, i
+              {/* //cert, i */}
               {certifications.map((cert) => (
                 <motion.div
                   key={cert.title}
