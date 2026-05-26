@@ -373,11 +373,11 @@ export const internships = [
    {
     company: "Ufours IT Solutions Pvt Ltd",
     role: "Software Developer Training",
-    period: "Apeil 2026",
+    period: "Apr 2026",
     type: "Training",
     description:
       "Full-Stack Engineering: Architected and deployed production-grade web applications utilizing the PERN (PostgreSQL, Express.js, React, Node.js) stack, ensuring robust end-to-end performance.",
-    tech: ["React", "Express", "PostgreSQL", "full stack development"],
+    tech: ["React", "Express", "PostgreSQL", "Full stack development"],
     color: "#38BDF8",
   },
   {
