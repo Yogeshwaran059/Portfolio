@@ -74,6 +74,8 @@ export const skills = [
       "Sequelize ORM",
       "Zod Validation",
       "Winston Logging",
+      "Swagger",
+      "Postman",
     ],
   },
 
@@ -118,8 +120,8 @@ export const skills = [
       "Linux",
       "Git",
       "GitHub",
-      "Swagger",
-      "Postman",
+      "Jenkins",
+      "Nginx"
     ],
   },
 
