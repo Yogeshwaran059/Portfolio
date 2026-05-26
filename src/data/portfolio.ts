@@ -370,6 +370,16 @@ featured:true
 ];
 
 export const internships = [
+   {
+    company: "Ufours IT Solutions Pvt Ltd",
+    role: "Software Developer Training",
+    period: "Apeil 2026",
+    type: "Training",
+    description:
+      "Full-Stack Engineering: Architected and deployed production-grade web applications utilizing the PERN (PostgreSQL, Express.js, React, Node.js) stack, ensuring robust end-to-end performance.",
+    tech: ["React", "Express", "PostgreSQL", "full stack development"],
+    color: "#38BDF8",
+  },
   {
     company: "NoviTech R&D Pvt Ltd",
     role: "Data Analyst Intern",
@@ -397,7 +407,6 @@ export const education = {
   college: "Mangayarkarasi College of Engineering, Madurai",
   period: "2022 – 2026",
   cgpa: "8.83",
-  status: "Final Year",
 };
 
 export const certifications = [

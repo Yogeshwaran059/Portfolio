@@ -472,9 +472,6 @@ export function EducationSection({ isDark }: SectionProps) {
               <div className="text-brand-cyan font-semibold mb-2">
                 {education.college}
               </div>
-              <div className={`text-sm mb-6 ${isDark ? "text-gray-500" : "text-gray-400"}`}>
-                {education.period} · {education.status}
-              </div>
               <div className="inline-flex items-baseline gap-2 px-5 py-3 rounded-xl bg-brand-cyan/10 border border-brand-cyan/20">
                 <span className={`text-sm ${isDark ? "text-gray-400" : "text-gray-500"}`}>CGPA</span>
                 <span className="text-3xl font-black text-brand-cyan">{education.cgpa}</span>
